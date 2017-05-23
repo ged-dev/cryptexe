@@ -28,8 +28,7 @@ function getText(){
 	a.start();
 	a.stop();
 	a.reveal(5000);
-
-	console.log(userData[0]);
+	
 	console.log("nbrIncrement : ", nbrIncrementation);
 	let nbrTest = 2;
 	for (let i = 0; i < userData.length; i++){
